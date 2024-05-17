@@ -1,3 +1,5 @@
+<a href="https://colab.research.google.com/github/LeonardSEO/Data-Preparation-and-Generation-for-LLM-Training/blob/main/PDF_to_LLM_Dataset_Creator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # PDF-to-LLM Dataset Creator
 
 This repository provides a Google Colab notebook designed to create a dataset for training a language model using text extracted from a PDF. The notebook guides you through the process of setting up the necessary environment, extracting text from a PDF, generating examples based on a user-provided prompt, and formatting the data into a JSONL file suitable for machine learning tasks.
