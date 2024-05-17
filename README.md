@@ -1,4 +1,9 @@
-<a href="https://colab.research.google.com/github/LeonardSEO/Data-Preparation-and-Generation-for-LLM-Training/blob/main/PDF_to_LLM_Dataset_Creator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/LeonardSEO/Data-Preparation-and-Generation-for-LLM-Training/blob/main/PDF_to_LLM_Dataset_Creator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+
+<a href="https://www.linkedin.com/in/leonard-van-hemert/" target="_parent">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3MiA3MiI+PHBhdGggZD0iTTY2LjE0IDBINFg4NkE1Ljg2IDUuODYgMCAwIDAgMCA1Ljg2djYwLjI4QTUuODYgNS44NiAwIDAgMCA1Ljg2IDcyaDYwLjI4QTUuODYgNS44NiAwIDAgMCA3MiA2Ni4xNFY1Ljg2QTVuODYgNS44NiAwIDAgMCA2Ni4xNCAwei0xLjk3IDEyLjk1YTYuMzg2LjM4IDAgMSAxLTYxMyAwIDAgMSA0LjY3MyAwLTYgMzAuNTNzNi4zNnQwIDB6TTM2IDEuNzloLTdWMjY4MkgzdWE0d3NlLWwiIGZpbGw9IiNFQ0UgU29keSIlIC8+PC9zdmc+" alt="LinkedIn Profile"/>
+</a>
+
 
 # PDF-to-LLM Dataset Creator
 
