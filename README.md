@@ -1,8 +1,5 @@
-<a href="https://colab.research.google.com/github/LeonardSEO/Data-Preparation-and-Generation-for-LLM-Training/blob/main/PDF_to_LLM_Dataset_Creator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+<a href="https://colab.research.google.com/github/LeonardSEO/Data-Preparation-and-Generation-for-LLM-Training/blob/main/PDF_to_LLM_Dataset_Creator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://www.linkedin.com/in/leonard-van-hemert/" target="_parent"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="20" height="20"><path d="M100.28 448H7.4V149.5h92.88zm-46.14-340C24.43 108 0 83.54 0 53.57A53.58 53.58 0 0 1 54.14 0c30 0 54.22 24.43 54.22 54.14S84.17 108 54.22 108zm394.18 340h-92.68V302.4c0-34.68-.7-79.29-48.3-79.29-48.3 0-55.7 37.72-55.7 76.7v148.2H161.92V149.5h89v40.8h1.3c12.4-23.5 42.57-48.3 87.55-48.3 93.63 0 110.77 61.6 110.77 141.78V448z"/></svg></a>
 
-<a href="https://www.linkedin.com/in/leonard-van-hemert/" target="_parent">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3MiA3MiI+PHBhdGggZD0iTTY2LjE0IDBINFg4NkE1Ljg2IDUuODYgMCAwIDAgMCA1Ljg2djYwLjI4QTUuODYgNS44NiAwIDAgMCA1Ljg2IDcyaDYwLjI4QTUuODYgNS44NiAwIDAgMCA3MiA2Ni4xNFY1Ljg2QTVuODYgNS44NiAwIDAgMCA2Ni4xNCAwei0xLjk3IDEyLjk1YTYuMzg2LjM4IDAgMSAxLTYxMyAwIDAgMSA0LjY3MyAwLTYgMzAuNTNzNi4zNnQwIDB6TTM2IDEuNzloLTdWMjY4MkgzdWE0d3NlLWwiIGZpbGw9IiNFQ0UgU29keSIlIC8+PC9zdmc+" alt="LinkedIn Profile"/>
-</a>
 
 
 # PDF-to-LLM Dataset Creator
